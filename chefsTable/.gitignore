@@ -8,3 +8,8 @@ __pycache__/
 /static/
 # media directory
 /media/ 
+
+#environmental viriable file 
+.env 
+# venv dir 
+firstDjango-env 
