@@ -1,0 +1,10 @@
+# Database connection
+db.sqlite3
+# Editor and IDE config settings
+.vscode/
+# python cache 
+__pycache__/
+# static directory
+/static/
+# media directory
+/media/ 
